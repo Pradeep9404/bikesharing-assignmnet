@@ -11,7 +11,7 @@ The main objective is to identify the factors affecting the demand for  shared b
 
 3.Data Visual
 
-4. Data Prepare
+4.Data Prepare
 
 5.Splitting Data into Training and Testing Sets
 
